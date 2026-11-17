@@ -1,1 +1,0 @@
-The Expenses page is the complete ledger. Every row shows the date, category, account, note, and amount. Use the filters to isolate a category or an account, or reset them to see everything. Each entry can be edited or deleted. Because balances are always computed from transactions, corrections flow through the whole app automatically.

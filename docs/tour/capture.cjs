@@ -93,6 +93,7 @@ async function clickByText(page, text) {
 
   for (let i = 0; i < scenes.length; i++) {
     const scene = scenes[i];
+    if (process.env.ONLY && scene.id !== process.env.ONLY) continue;
     const out = path.join(FRAMES, `${scene.id}.png`);
 
     if (scene.file) {

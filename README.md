@@ -6,6 +6,10 @@ own machine — no cloud, no bank connections, no registration.
 
 ![stack](https://img.shields.io/badge/PHP-8.2-777bb4) ![stack](https://img.shields.io/badge/Laravel-12-ff2d20) ![stack](https://img.shields.io/badge/Livewire-3-fb70a9) ![stack](https://img.shields.io/badge/Tailwind-4-38bdf8)
 
+[![Watch the Budget Desk system tour](docs/budget-desk-tour-poster.jpg)](docs/budget-desk-tour.mp4)
+
+**System tour:** [5-minute narrated video](docs/budget-desk-tour.mp4) · [subtitles](docs/budget-desk-tour.srt)
+
 ## What it does
 
 - **Payday advice** — for each salary, calculates a savings target (default 20% of net, rounded to ₱100),

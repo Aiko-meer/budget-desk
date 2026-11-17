@@ -95,7 +95,7 @@ module.exports = [
     title: 'Reports · charts and budget performance',
     subtitle: 'Daily cash flow, savings growth, categories and limits',
     path: '/reports',
-    scroll: 520,
+    scroll: 300,
     narration: "Two charts show daily cash flow and cumulative savings over the month. Below them, the category breakdown ranks where the money went, and budget performance compares every limit against actual spending. It is the fastest way to see which category needs attention before the next payday.",
   },
   {

@@ -80,7 +80,7 @@ for (const scene of scenes) {
 
   const filter =
     `[0:v]scale=3840:2160,` +
-    `zoompan=z='min(1+0.00019*on,1.10)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=${frames}:s=1920x1080:fps=30,` +
+    `zoompan=z='min(1+0.00007*on,1.045)':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=${frames}:s=1920x1080:fps=30,` +
     `format=yuv420p,fade=t=in:st=0:d=0.45,fade=t=out:st=${fadeOutAt}:d=0.55[v];` +
     `[1:a]adelay=450:all=1,apad=pad_dur=2,aresample=44100,` +
     `afade=t=in:st=0.45:d=0.30,afade=t=out:st=${(dur - 0.65).toFixed(2)}:d=0.65[a]`;

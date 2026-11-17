@@ -1,1 +1,0 @@
-Settings makes the app yours. Set the currency, the savings percentage, the rounding step, and how many months of expenses your emergency fund should cover. Toggle between dark and light themes. Download a complete J S O N export of your data, or write a timestamped backup of the database, which is ideal before big changes.

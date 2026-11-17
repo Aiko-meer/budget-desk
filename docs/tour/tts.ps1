@@ -5,7 +5,7 @@ $audio = Join-Path $root 'audio'
 Add-Type -AssemblyName System.Speech
 $synth = New-Object System.Speech.Synthesis.SpeechSynthesizer
 $synth.SelectVoice('Microsoft Zira Desktop')
-$synth.Rate = 0
+$synth.Rate = 1
 $synth.Volume = 100
 
 Get-ChildItem -Path $audio -Filter '*.txt' | Sort-Object Name | ForEach-Object {
