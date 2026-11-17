@@ -1,0 +1,1 @@
+Budgets are monthly spending limits per category. Choose the month, type an amount for each category, and save. You can copy the previous month's plan in one click, or apply suggested defaults based on your expenses. The bars show actual spending against each limit, and the totals at the top show how much of the plan is committed.

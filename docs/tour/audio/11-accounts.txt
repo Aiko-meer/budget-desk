@@ -1,0 +1,1 @@
+Accounts shows every bank account, e-wallet, and cash wallet in one place. Balances are computed, never typed: opening balance, plus salary, minus expenses, plus transfers in, minus transfers out. Transfer money between accounts, or open a per-account ledger to audit every movement. Flag an account as savings, and transfers into it count toward your savings record.

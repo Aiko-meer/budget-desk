@@ -1,0 +1,1 @@
+Save now moves money from a spending account into a savings account. Choose the amount, the source and destination, optionally tag a goal, and add a note. The contribution counts immediately toward this period's savings advice. When a goal crosses one hundred percent, confetti celebrates the milestone.

@@ -1,0 +1,1 @@
+Reports rolls everything into a calendar month. The summary shows income, expenses, net saved, and unallocated cash. Use the arrows to change month, and export the month as a C S V file for a spreadsheet. Next, the visual breakdown.

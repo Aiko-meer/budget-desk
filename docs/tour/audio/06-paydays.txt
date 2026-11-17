@@ -1,0 +1,1 @@
+On Paydays, you record each salary: gross pay, net pay, the account it landed in, and notes. Every payday starts a new pay period that runs until the day before the next scheduled payday. The table shows the savings advice generated for each period, so you can compare what you planned against what you actually saved.

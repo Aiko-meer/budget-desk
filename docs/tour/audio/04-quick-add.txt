@@ -1,0 +1,1 @@
+Quick add is the fastest way to record a purchase. Enter the amount, choose a category, and pick the account the money came from. Set the date, which cannot be in the future, and add an optional note. Save, and the expense is recorded instantly with a confirmation toast. Balances, budgets, and the dashboard all update on the spot.
